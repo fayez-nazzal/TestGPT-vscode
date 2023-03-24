@@ -4,6 +4,8 @@ Automatically generate unit tests for your files using GPT-3.5-turbo model. (GPT
 
 ![TestGPT show](https://user-images.githubusercontent.com/49946791/227503309-06aac81e-3144-4c48-b315-4fd36791034a.gif)
 
+You can find the extension on the [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=FayezNazzal.testgpt).
+
 ## Requirements
 - You need TestGPT installed in your system, run `npm install -g testgpt@latest`.
 - You need to obtain an OpenAI API Key, you will be asked to provide it once you run the extension.
